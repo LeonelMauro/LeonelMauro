@@ -1,7 +1,8 @@
 <h1 align="center">Holaa 👋,me llamo Leonel</h1>
 <h3 align="center">Soy Programador</h3>
 
-- 📫 How to reach me **leoonelvj@gmail.com**
+- 📫 How to reach me: leoonelvj [at] gmail [dot] com
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
